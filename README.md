@@ -1,4 +1,4 @@
-# Gatsby Starter i!8n SSR
+# Gatsby Starter i18n SSR
 
 ### Requirements
 

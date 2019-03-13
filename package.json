@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-starter-i18next-ssr",
+  "version": "1.0.0",
+  "description": "Gatsby boilerplate to support server-side i18n page generation with i18next, react-18next and i18next",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby-i18n": "^1.1.5",
+    "i18next": "^15.0.6",
+    "react-i18next": "^10.4.1"
+  },
+  "devDependencies": {
+    "gatsby": "^2.0.115",
+    "react": "next",
+    "react-dom": "next"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:guibulator/gatsby-starter-i18next-ssr.git"
+  },
+  "keywords": [
+    "Gatsby",
+    "React",
+    "i18n"
+  ],
+  "author": "Mathieu Guilbault",
+  "license": "Unlicense"
+}

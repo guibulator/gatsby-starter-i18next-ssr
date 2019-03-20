@@ -1,4 +1,5 @@
 {
   "hello": "Bonjour, comment allez-vous?",
-  "goBackHome": "Retour à la page d'accueil"
+  "goBackHome": "Retour à la page d'accueil",
+  "howToChild": "Exemple pour traduire dans une composante enfant."
 }

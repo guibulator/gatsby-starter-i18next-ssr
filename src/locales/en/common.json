@@ -1,4 +1,5 @@
 {
   "hello": "Hi, how are you?",
-  "goBackHome": "Go back to home page"
+  "goBackHome": "Go back to home page",
+  "howToChild": "Example on how to translate in a child component"
 }

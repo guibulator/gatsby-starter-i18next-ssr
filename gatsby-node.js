@@ -28,6 +28,10 @@ exports.onCreatePage = async props => {
     actions: { createPage, deletePage, createRedirect }
   } = props;
 
+  if (/^\/dev-404-page\/?$/.test(page.path)) {
+    return;
+  }
+
   deletePage(page);
 
   availableLocales.map(({ value }) => {
